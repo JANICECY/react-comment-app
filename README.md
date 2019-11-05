@@ -1,4 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+## Built with
+*  react <br />
+* React-redux <br />
+* Bootstrap <br /> 
+  
+You can visit the deployed app, at https://janicecy.github.io/react-comment-app <br />
 
 ## Available Scripts
 
