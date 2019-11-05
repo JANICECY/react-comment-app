@@ -2,7 +2,7 @@
 
 
 ## Built with
-*  react <br />
+* React <br />
 * React-redux <br />
 * Bootstrap <br /> 
   
